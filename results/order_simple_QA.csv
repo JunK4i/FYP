@@ -1,0 +1,351 @@
+goal,step0,step1,label,llama2,llama2_retries,mistral,mistral_retries,orca-mini:7b,orca-mini:7b_retries,qwen:7b,qwen:7b_retries
+Apply for an SBI Credit Card,Provide the necessary information.,Agree to the terms and conditions.,A,B,1,A,1,B,2,A,1
+Buy Books on Google Play,Go to the Books section.,Visit Google Play.,B,B,1,A,1,A,1,A,1
+Use Amazon on Demand,Navigate to the Amazon Video on Demand Store.,Select a movie or TV show to watch.,A,A,1,A,1,A,1,A,1
+Straighten Curly and Thick Hair,Purchase the right straightener for your hair type.,Turn on your straightener and select the right heat setting.,A,A,1,A,1,A,1,A,1
+Rip a Karaoke CD Using Golden Hawk CDRWin,CDRWIN will start ripping your selected tracks to the selected location and in selected format.,Now choose the tracks you want to rip and click on start button below.,B,A,1,A,1,B,1,B,1
+Apply a Tourniquet,Use a stick or rod for tightening.,Apply the tourniquet between the heart and injury.,B,B,1,A,1,A,1,A,1
+Sew a Reversible Tote Bag,"Turn ""one"" pouch right side out.",Add pockets.,A,A,1,B,1,A,1,A,1
+Select a Garter Belt,Find out the return policy before you buy anything.,Keep your receipt and leave the tags on.,A,B,1,A,1,B,1,B,1
+Gently Bleach Your Skin Naturally,Apply the lemon juice to your face.,Wash if off and repeat daily.,A,B,1,A,1,A,1,A,1
+Paint a Textured Ceiling,Tape around all the wall edges with painters tape if you are painting the ceiling a color that differs from the walls.,"Vacuum the ceiling using a hand-held vacuum cleaner with a soft-bristled attachment, being careful not to damage the texture.",B,B,1,A,1,B,1,A,1
+Clean Air Conditioner Coils,Use the hose to rinse the cleaner off of outdoor units.,Reassemble the unit.,A,A,1,A,1,A,1,A,1
+Play Futsal,Set a timer for 20 minutes.,Choose 5 players per team.,B,B,1,A,1,B,1,B,1
+Inspect Parts Using Dye Penetrant,"Remove excess penetrant using a clean, dry, lint free cloth.",Apply the penetrant to the surface being inspected.,B,B,1,A,1,A,1,B,1
+Dye Eggs for Easter,Cover with glitter paint.,Let dry.,A,B,1,B,1,B,1,B,1
+Make Slime,Put the mixture in the refrigerator.,Remove the mixture from the refrigerator.,A,A,1,A,1,A,1,B,1
+Buoy an Anchor,Attach the buoy to the line with a large eye splice.,Cut polypropylene cord for the buoy.,B,I,3,A,1,A,1,B,1
+Graph a Quadratic Equation,Draw the parabola's axis (optional).,Plot your vertex.,B,B,1,A,1,B,1,A,1
+Obtain a Cypriot Citizenship,Apply for citizenship if you've lived in Cyprus for 7 years.,Choose citizenship by investment if you can invest.,A,A,1,A,1,A,1,A,1
+Clean a Bathtub,Scrub the grout with bleach or a cleaning product.,Apply the cleaner.,B,B,1,B,1,A,1,A,1
+Play Heads Up 7 Up,"Have your pickers say, Heads up, seven up!  When the pickers say the name of the game in unison, the other students will open their eyes and lift ",Have the pickers choose one student each.,B,A,1,A,1,A,1,A,1
+Weave a Willow Basket,Add weavers to the sides of the basket.,Weave the sides.,A,B,1,A,1,B,1,B,1
+Remove Braids from Hair,Repeat the process until all of the braids are removed.,Detangle the lock of hair.,B,B,1,A,1,A,1,B,1
+Test a Refrigerator PTC Relay,Order a replacement relay if the resistance doesn't read OL or 0-1 ohms.,Flip the relay upside-down to see if the resistance changes to 0-1 ohms.,B,B,1,B,1,A,3,B,1
+Replace Awning Fabric,Remove the bolt and leg from the front end of the awning roller tube.,Reinsert the bolt and cover the bracket with tape.,A,B,1,A,1,A,1,A,1
+Sew Pants Pockets,Cut along the edges of the paper pattern.,Pin the paper pattern piece onto your fabric.,B,B,1,B,1,A,1,T,3
+Soothe Bites and Stings with Vodka,Allow the vodka to air-dry on your skin.,Squirt the vodka directly on your skin at dusk.,B,A,1,A,1,I,3,A,1
+Breed Molly Fish,Remove the female from the aquarium before birthing begins.,Allow the fish to mate with one another.,B,A,1,A,1,A,1,B,1
+Report a Bad Airbnb Stay,Evaluate and submit your review.,Write the text of your review.,B,A,1,B,1,A,1,B,1
+Play Netball,Form two teams of 7 players.,Assign positions to the players.,A,B,1,A,1,B,1,A,1
+Marble a Bottle,Pour 2 to 3 colors of acrylic craft paint into the bottle.,Clean a glass bottle with soap and water.,B,B,1,A,1,A,1,B,1
+Do the Perfect Manicure or Pedicure,Add a top coat.,Allow nails to dry completely.,A,B,1,B,1,A,1,T,3
+Surf,Paddle to your spot.,Identify a target spot.,B,B,1,A,1,A,1,B,1
+Clean a Plastic Water Tank,Make a cleaning mixture.,Scrub the inside of the tank.,A,A,1,A,1,A,1,A,1
+Relieve a Toothache and Bleeding Gums,Try crunched up paracetamol.,See the dentist as soon as possible if the bleeding gets any worse or if the toothache lasts more than a couple of days and the pain does not seem to be improving.,A,B,1,A,1,B,1,A,1
+Cut Fabric on the Bias,Lay your fabric out in a single layer.,Place the pattern pieces on the fabric so the biases are perpendicular.,A,B,1,A,1,A,1,A,1
+Make a Mastectomy Bra from a Regular Bra,Choose some fabric.,Place the fabric on a table.,A,A,2,A,1,A,1,A,1
+Make Orange Julius,Enjoy!,"Add ice cubes one by one, until ice cubes are completely dissolved and drink is frothy.",B,B,1,B,1,B,1,B,2
+Glaze a Cabinet,Cover the floors and other nearby surfaces with drop-cloths.,Tape off the walls around the edges of the cabinets with painter's tape.,A,A,1,A,1,A,1,A,1
+Graph Polar Equations,Understand how polar equations work.,Make a table with values of the angle and radius.,A,B,1,A,1,A,1,A,1
+Get Free Checkbook Software,Set up an account for initial use.,Talk to your bank about syncing your account information.,A,A,1,A,1,A,1,B,1
+Be Ready and Comfortable Kissing a Guy,Start by cuddling.,Tell yourself that everything will be okay.,B,A,1,B,1,A,1,A,1
+Make Matcha and Chocolate Swirl Cake,Serve with milk or unsweetened tea.,Bake in 350F or 180C degree in a preheated oven for 30 ,B,A,1,B,1,B,1,B,1
+Wash Lacrosse Gear,Machine wash the uniform.,Tumble dry your uniform.,A,A,1,A,1,A,1,A,1
+Apply for a US Visa,Read the information.,Enter the requested information.,A,B,1,B,1,A,1,A,1
+Use a Vegetable Steamer,Fill the basket(s) with fresh vegetables.,Turn on your steamer and set the timer.,A,B,1,A,1,A,1,A,1
+Take Apart a Track Bicycle,Optional: This is a good opportunity to change your brake pads and clean your brakes.,Unscrew the bolt that is driven into the brake through the fork.,B,A,1,B,1,A,1,B,1
+Pan for Gold,Shake the pan vigorously several times.,Fill your pan so it is  full of gra,B,A,1,A,1,A,1,A,1
+Use the Hue Tool on MediBang Paint Pro,"Press Ctrl+U on your keyboard to access the hue, brightness, and saturation menu on MediBang.",Move the slider on the hue bar.,A,B,1,A,1,A,1,A,1
+Sue for Stock Broker Fraud,Complete other required forms.,Submit your application packet.,A,A,1,A,1,A,1,A,1
+Enter a Dog in an American Bully Kennel Club (ABKC) Show,Find an event.,Look at the specific rules for each event.,A,B,1,B,1,A,1,B,1
+Draw Harry Styles,Detail further with eye-balls and teeth.,"Make the shapes of the eyes, eyebrows, nose and a smiling mouth.",B,B,1,B,1,A,1,B,1
+Store a Kayak,Attach the storage unit to the wall.,Buy a rope or bracket-style storage system.,B,B,1,A,1,A,1,B,1
+Play the Trombone,Grip the movable part of the slide gently with your right hand.,Hold the trombone with your left hand by gripping the screw-joint.,B,B,1,B,1,B,2,B,1
+Curl a Pixie Cut,Clip the roll of hair with an alligator clip.,Wrap the section of hair around your thumb and index finger.,B,B,1,A,1,A,1,A,1
+Make a Cape,Make the casing.,Cut a piece of ribbon that's just a little longer than the casing.,A,B,1,A,1,B,1,A,1
+Paint Vaulted Ceilings,Choose a color scheme for your ceiling.,Purchase a can of 2-in-1 interior house paint.,A,A,1,A,1,A,2,B,1
+Verify Funds Before Cashing a Check,Find the banks contact inform,"Call the payers bank, or visit a branch in p",A,A,1,A,1,A,1,B,1
+Take Action Against the Breach of a Purchase and Sale Agreement,Await the verdict.,Make closing arguments.,B,A,1,A,1,A,1,A,1
+Cut Molding,Mark the length of the wall on the molding boards.,Visit a local hardware store and find a molding you like.,B,A,1,A,1,A,1,B,1
+Clean Skechers Shoes,Wash your shoes on a cold cycle with laundry detergent.,Remove the laces and put the shoes in a delicates bag.,B,A,1,B,1,A,1,B,1
+Install Steam on Linux,Type and run sudo apt install snapd.,Open your computer's Terminal window.,B,I,3,A,1,A,1,B,1
+Clean Kale,Swish your kale around.,Submerge your kale in the water.,B,B,1,A,1,A,1,A,1
+Assemble a Bicycle,Make sure each tire is mounted correctly on its rim.,Inflate the tires.,A,A,1,A,1,A,1,B,1
+Deter House Wrens from Nestboxes,Make or purchase a Wren Guard.,Watch the nestbox.,A,B,1,A,1,A,1,A,1
+Make a Match Box Bomb,Cut off all of the match heads.,Pour all the matches out of the box.,B,A,1,A,1,A,1,A,1
+Grind Metal,Hold the grinding disc as level as you can to the piece of metal.,Grind along the length of the weld.,A,A,1,A,1,A,2,A,1
+Perform a Titration,Drop a small amount of color indicator into the beaker.,Measure out a precise amount of analyte in a clean beaker or flask.,B,A,1,A,1,A,1,A,1
+Remove a Woodruff Key,Fit the arms.,Tighten the forcing screw.,A,B,1,B,1,A,1,A,1
+Report Phone Call Scams,Visit the FTC's Complaint Assistant online.,Choose the correct category and sub-category.,A,B,1,A,1,B,1,A,1
+Download Full Albums,Type in an album's name.,Tap the search bar.,B,B,1,I,3,A,1,B,1
+Lace Timberlands,Use the criss-cross or straight style but skip the fourth hole.,Thread the laces through the fifth hole.,A,A,1,A,1,A,1,A,1
+Make a Waterbomb,Repeat the last step on the other side.,Fold the top flaps into the pockets.,B,B,1,B,1,B,1,B,1
+Write a Confirmation Letter,Send your letter to the recipient promptly.,Sign the letter using blue or black ink.,B,A,1,A,1,A,1,A,1
+Make Paper Cup iPhone Speakers,Cut the bottom off of each cup using a craft knife or box cutter.,Find two paper cups that are the same size.,B,A,1,A,1,A,1,B,1
+Use Fashion Nova App on Android,Scroll down and view the featured items and collections.,Open the Fashion Nova app on your Android.,B,B,1,A,1,A,1,B,1
+Extract Your DNA,Deliver the sample to a lab.,Collect your DNA.,B,B,1,A,1,A,1,A,1
+Wet Sand Wood,Soak the sandpaper in water overnight.,Select high-grit wet sandpaper.,B,A,1,A,1,A,1,A,1
+Make Spider Repellent at Home,Add dish soap and shake.,Combine essential oils and water.,B,B,1,B,1,A,1,A,1
+Clean a Knife,Dry the knife.,Soak the knife for a minute or two if food is stuck on.,B,A,1,A,1,A,1,B,1
+Play the Jew's Harp,Curl your lips.,Position it in your mouth.,B,A,1,A,1,A,1,A,1
+Paint Fabric Shoes,Let the paint dry.,Paint your shoes following your design.,B,B,1,A,1,A,1,A,1
+Stretch Cotton Pants Legs,Wait until your pants are dirty to wash them.,Wash cotton pants in a washing machine with cold water on a gentle cycle.,A,B,1,A,1,B,1,B,1
+Obtain a CMS Certification Number,Complete the relevant form.,Read through the form carefully.,B,B,1,B,1,A,1,A,1
+Weld Galvanized Steel,"Get a welding mask, respirator, welding gloves, and apron.",Use a fume extractor or set up a fan directly next to your welding site.,A,B,1,B,1,B,1,B,1
+Make Chestnut Stuffing,Remove the stuffing when it is brown on top.,Cover and bake.,B,B,1,A,1,A,1,I,3
+Get Into Harvard University,Meet for an interview if you are selected to do so.,Wait for a decision.,A,B,1,A,1,A,1,B,1
+Infuse Vodka with Flavor,Strain the vodka.,Sample and enjoy!,A,A,1,A,1,A,1,A,1
+File for Divorce in Oklahoma,Request a temporary order if necessary.,Serve your spouse with your divorce petition and the summons.,B,B,1,A,2,A,1,A,1
+Make a Pipe from a Soda Can,"Get a needle,  pin or other sharp object.",Make an thumb-sized indention on side of the can.,A,B,2,A,1,A,1,A,1
+Backstitch,Position your needle at one end of the guideline.,Use the machine to stitch along the line about 0.51 in (1.3,A,A,1,A,1,A,1,A,1
+Include References on a Resume,List your references and their relevant information.,"Under the heading, add a clear title.",B,A,1,A,1,B,1,B,1
+Play the Lute,Pluck each string and check the pitch with an electric tuner.,Rotate the corresponding pegs to adjust any out-of-tune strings.,A,B,1,A,1,B,1,B,1
+Obtain a Copy of Your Birth Certificate in Ohio,Fill out the application form.,Have payment ready.,A,A,1,A,1,A,1,B,1
+Bypass a Water Softener,Turn the valve to the bypass position to shut off soft wa,Locate the bypass valve near the tubes running off the water softener.,B,B,1,B,1,A,1,B,1
+Replace Laminate Flooring,Place transition strips at doorways and other openings.,Apply pressure to the flooring.,B,A,1,A,1,A,1,A,1
+Make Oatmeal Play Clay,"Place all of the dry ingredients, except for the oats, into a mixing bowl.",Add the oil.,A,A,1,A,1,A,1,A,1
+Gift Wrap a Chocolate Bar in Brown Paper and Lace,Done.,Finish with decorative elements.,B,A,1,C,3,A,1,A,1
+Factory Reset a Nook,Press the Home button.,"On the Home menu, tap Settings.",A,B,1,B,1,B,2,A,1
+Clean Vans,Remove any caked-on dirt outside.,Use dish detergent and warm water.,A,A,1,A,1,A,1,A,1
+Sell Scrap Metal,Allow facility personnel to unload your vehicle.,Weigh your vehicle.,B,A,1,A,1,A,1,A,1
+Make Face Whitening Mask,Spread the mask over your face.,Stir the ingredients with a spoon or fork.,B,B,1,B,1,A,1,B,1
+Paint a Greenhouse with Poinsettias in Watercolor,"Gather your supplies; a basic set of tube watercolors, brushes, a palette or white plastic plate, a water container, table salt and a support for your paper.",Set up colors on the palette.,A,A,1,A,1,A,1,A,1
+Dispute a Chargeback,Wait for the result.,Attach evidence.,B,B,1,B,1,B,1,B,1
+Apply Diatomaceous Earth,Vacuum up the powder after it has been sitting for 24 to 48 hours.,Reapply the powder after 2 weeks to kill any remaining bugs.,A,B,1,A,1,A,1,A,1
+Create MP3 Files from Wikipedia Articles Using Pediaphon,Pick the language of your choice.,Go to the Pediaphon website.,B,B,1,A,1,A,1,A,1
+Download Karaoke Songs,Download an IDM(internet download manager) along with key or keygen or crack.,Now go to online karaoke websites like KaraFun to listen to your favorite song the moment you play a song the IDM shows a download symbol.,A,B,1,A,1,A,1,A,1
+Make a Petticoat,Sew the bottom and middle tiers together using a 1/2-inch (1.3-cm) seam.,Fold the seam against the middle tier and topstitch it down.,A,A,1,A,1,B,1,A,1
+Create a Battery from a Lemon,Squeeze the lemon without breaking its skin.,Gather your materials.,B,A,1,B,1,A,1,B,1
+Download Songs from SoundCloud,Open the SoundCloud site.,Click the search bar.,A,A,1,A,1,A,1,A,1
+Remove Hair Naturally,Sprinkle cornstarch or arrowroot powder over the area to be waxed.,Wash the area you want to wax and prepare it for waxing.,B,A,1,A,1,A,1,B,1
+Give a Speech in Front of Your Class,Pause for 10 seconds before you start your speech.,Project your voice.,A,A,1,A,1,A,1,A,1
+Fit Fascia Boards,Cut the boards to length you need using a circular saw.,Rip the tops of the fascia boards to match the slope of your roof.,A,B,2,A,1,A,1,B,1
+Play the Oboe,Curve your hands into C-shapes around the body of the oboe.,Set your left hand on the upper keys and your right hand below it.,A,B,1,A,1,A,1,A,1
+Get Universal Studios Tickets from Costco,Use the trip builder to search for theme park trips.,Pick a Universal Studios package.,A,B,1,A,1,A,1,B,1
+Wear Finger Picks,Form the pick to your finger.,Place the pick on the end of your index finger.,B,B,1,A,1,B,1,A,1
+Divorce in Arkansas,Receive a Summons from court.,File the Complaint for Divorce.,B,B,1,A,1,A,1,A,1
+Use a Vertical Water Smoker,Use a chimney starter to light charcoal for the smoker.,Place the food you want to smoke on the grates in the food chamber.,A,A,1,A,1,A,1,A,1
+Color Hair,"Apply the henna paste to clean, dry hair.",Read the instructions and mix up the henna paste.,B,B,1,A,1,A,1,B,1
+Make a Paracord Combat Bracelet,Repeat the second part of the knot.,Continue this process.,A,A,1,B,1,A,2,A,1
+Make a Model of the Earth,Trace the continents onto the ball.,Paint the land and water.,A,A,1,A,1,A,1,B,1
+Draw a Pretzel,Complete the drawing.,"From the top line, close the image full circle, with the knot at the center.",B,B,1,A,1,B,1,B,1
+Make a Triangle in Photoshop on PC or Mac,Select the pen tool.,Click on a point on the canvas where you want to start your triangle.,A,B,1,A,1,B,1,B,1
+Make a Camera Copy Stand,Pack the rod in tightly.,Drill a hole the diameter of the wooden rod (one inch/2.5cm).,B,A,1,I,3,A,1,I,3
+Make a Noodle Beverage Boat,Measure each side of your container and cut the noodle to fit each side.,"Thread the noodle parts over a long, sturdy string or rope.",A,A,1,A,1,A,1,A,1
+Create a DIY Extreme Macro Tube,Cut a hole in the metal bottom of an empty Pringles can.,Glue the body cap onto the Pringles can with super glue.,A,A,1,A,1,A,1,A,1
+Make a Christmas Bow,Fluff the loops on either side.,Finish the bow.,A,I,3,A,1,A,1,A,1
+Wash a Wool Coat,Lay the coat flat to dry.,Roll the coat in a towel.,B,B,1,A,1,A,1,B,1
+Join Two Pieces of Wood,Allow the glue to cure overnight.,Wipe away excess glue after 20 minutes.,B,B,1,A,1,A,1,T,3
+Build Stencils,Choose your material.,Reinforce your stencil.,A,A,1,A,1,A,1,A,1
+Make a Foam Rocket,Slide the triangles together at the slits to lock then together.,Slide the interlocked fins into the slits in the bottom of your rocket.,A,B,1,R,3,A,1,A,1
+Make a FlowerFilled Tulle,Arrange the flowers on the skirt.,Glue the flowers in place.,A,A,1,A,1,A,1,A,1
+Make Spa Water,"Add the water, cucumber, and ice to a pitcher For the spa water, youll need a pitcher that holds approximately 2-quarts (1",Allow the water mixture to sit for a couple of hours before serving.,A,A,1,A,1,A,1,A,1
+Use a Kite Antenna in Amateur Radio,"Find a suitable flying site, check local laws and book the right weather.",Select some wire to use for the antenna and also decide how long the wire needs to be.,B,B,1,A,1,A,1,A,1
+Search Google Books,"Enter any search term for a book within the ""Search Books"" section of the Google Books home page.",Review the list of books provided to you in the Google Books search results.,A,I,3,A,1,A,1,A,1
+Unbind a Book,Lay the book down on the edge of a flat surface.,Apply pressure to the cover of the book.,A,A,1,A,1,A,1,A,1
+Use a Vacuum Pump,Attach your gauges to the ports.,Open your manifold valves.,A,A,1,A,1,A,1,A,1
+Write a Teleplay,Begin all acts with fade in.,Start with a title page.,B,B,1,A,1,A,1,B,1
+Wire a Simple 120v Electrical Circuit,"Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.",Feed the wires through the conduit from the receptacle box.,A,A,1,A,1,A,1,A,1
+Sponge Paint With Kids,Cut the sponge with scissors along the lines that you drew.,"Get additional sponges to paint with, if desired.",A,A,1,A,1,A,1,A,1
+Care For a Leather Jacket,Rub an art gum eraser over grime.,Clean suede with a specialized brush or a dry sponge.,B,B,1,A,1,B,1,B,1
+Make a Sequin Letter,Hang the sequin letter (or series of letters that form a word).,Create a hanging loop.,B,B,3,B,1,A,1,B,1
+Remove Stains from a Mattress,Vacuum off the baking soda using an upholstery attachment.,Let the baking soda sit for about 8 hours.,B,B,1,B,1,A,1,B,1
+Make a Pirate Hat,Fold the bottoms of the paper up.,Add decorations to your finished pirate hat.,A,A,1,A,1,A,1,A,1
+Curl Hair With Toilet Paper,Remove the toilet paper in the morning and apply hairspray.,Leave the toilet paper in overnight.,B,B,1,B,1,A,1,B,1
+Do Fractions,Solve the equation as you normally would.,Make equivalent fractions so the denominators are the same.,B,B,1,B,1,A,1,B,1
+Make a Slurpee,Blend on high until your drink is smooth.,"Add one cup of club soda, sugar, Kool-Aid mix, and cherry extract to a blender.",B,B,1,A,1,A,1,A,1
+Make a Mermaid Shell Top,Fill the gaps in on the bra with more embellishments.,"Add some final touches, if desired.",A,A,1,B,1,A,1,A,1
+Treat a Conscious Choking Adult or Child,"Look for the food or object to fall out of the mouth, with the help of gravity.",Use the heel of your other hand to firmly thump the infant on the middle of the back.,B,A,1,A,1,A,1,A,1
+Get Red Wine out of Fabric Using Baking Soda and Vinegar,Check for any remnants and repeat if needed.,Vacuum or wash your fabric.,B,A,1,A,1,A,1,B,1
+Apply for a Divorce in New York,Arrange service in all other situations.,Deliver the papers yourself in an uncontested divorce.,B,B,1,A,1,B,1,B,1
+Remove Cactus Needles,Clean your clothes in a washing machine to remove leftover needles.,Pull out large cactus needles with a comb.,B,A,1,A,1,A,1,B,1
+Do a Front Lunge Exercise,Repeat these motions on your left side.,Keep your weight on your front (right) heel.,B,A,1,T,3,A,1,A,1
+Block a Call,Confirm the registration.,Enter the phone number you want to register.,B,B,1,B,1,A,1,B,1
+Stretch Out Jeans,Lay the jeans on the floor or your bed.,Heat the jeans using a hair dryer on a medium setting.,A,A,1,A,1,A,2,A,1
+Write a Credit Card Dispute Letter,Begin with the date and addresses at the top.,Include a salutation.,A,A,1,A,1,A,1,B,1
+Shrink Socks,Transfer socks from boiling water into the dryer.,Dry boiled socks using the hottest dryer setting possible.,A,A,1,A,1,A,1,A,1
+Use a Circular Saw,Unplug the saw when youre done usi,Release the trigger to stop the blade after each cut.,B,B,1,B,1,B,1,B,1
+Arrange a Window Box,Choose a color scheme.,Fill the box evenly throughout.,A,A,1,A,1,A,1,A,1
+Make a Tiny Vampire Pumpkin,Transfer your measurements to the pumpkin using the pencil.,Measure the vampire teeth.,B,B,1,A,1,A,1,A,1
+Remove Wax from a Glass Table Top,Heat up the wax.,Remove the wax.,A,B,1,A,1,B,1,A,1
+Change Your Name in New Mexico,Determine where you will file your name change petition.,Verify your eligibility to file to change your name.,B,B,1,B,1,A,1,B,1
+Obtain a Copy of Your Birth Certificate in Texas,Receive copies of your birth certificate.,Send in the application or take it to the designated location along with the required fee.,B,B,1,A,1,A,1,B,1
+Cook Stuffed Peppers,"Bake the peppers for 30-40 minutes, until they're soft.",Stuff the beef mixture into the peppers.,B,B,1,B,1,A,1,B,1
+Use a Tide to Go Pen,Rub the dispersed solution into the stain.,Wait and reapply as necessary.,A,A,1,A,1,A,1,B,1
+Build Plyo Boxes,Purchase an 8 by 4 feet (2.4 by 1.2 m) piece of plywood.,Measure and mark your plywood pieces.,A,B,1,A,1,A,1,B,1
+Draw an Umbrella,Write the date and you are finished!,"Color in the handle dark green, and the metal rod black.",B,A,1,A,1,A,1,B,1
+Make a Hair Stick from a Knitting Needle,Measure and mark on the knitting needle the point where you need to cut.,Cut the knitting needle to length with a hacksaw.,A,A,1,A,1,A,1,A,1
+Make Decorative Garden Mushrooms,Spray paint the outside of the pot white or off-white.,Choose a terracotta pot and drain plate.,B,B,1,A,1,A,1,B,1
+Use a Foam Roller on Your Legs,Roll back and forth from your thigh to your hip.,Repeat the process on your left side.,A,A,1,A,1,A,1,B,1
+Make Jiggly Slime,Refrigerate your jiggly slime in a Ziploc bag or throw it away.,Mix 1 cup (240 mL) of hot water into your slime.,B,B,1,A,1,A,1,B,1
+Learn a Dance from a Video,"When you have a section of moves worked out, do them together.",Start learning the moves.,B,B,1,B,1,A,1,B,1
+Eat a Watermelon,Rinse the outside.,Pick a ripe one.,B,A,1,B,1,A,1,B,1
+Calculate Molarity,Know the basic formula for calculating molarity.,Examine the problem.,A,A,1,A,1,A,3,B,1
+Do a One Armed Push Up,Lower yourself.,Push upward.,A,A,1,A,1,A,1,A,1
+Make Beetroot Juice,Set up your juicers collection and pulp conta,Feed the chunks through the juicer.,A,A,1,A,1,A,1,A,1
+Buy a Fish for a Child,Feed your fish carefully.,Transfer from the bag to your tank.,B,A,1,A,1,A,1,B,1
+Get a Rebate,Fill out the form for the mail-in rebate.,Read the rebate form carefully.,B,B,1,B,1,A,1,B,1
+Make a Sleeveless Shirt,"Cut into the side of the shirt, cutting upward at a slight angle.","Hem the edges, if you would like to keep the shirt from fraying.",A,B,1,B,1,B,1,A,1
+Open Nail Glue,Insert a pin into the center of the nail glue tip or where indicated.,Replace the lid when youre not using the nail,A,A,1,B,1,A,1,A,1
+Spin a Drumstick,Hook your pinky finger.,Transfer the stick from your pinky to your pointer finger.,A,B,1,A,1,A,1,A,1
+Clean Suede Shoes,Stick paper and shoe trees in your shoes.,Let the shoes dry at least overnight.,A,B,1,A,1,A,1,A,1
+Build a Bean Bag Game,Use a strong cloth for the beanbags.,"Sew around the square or rectangle, leaving enough room to pour in the beans.",A,B,1,A,1,A,1,A,1
+Calculate Percent Change,Subtract the original value from the new value.,Divide your answer by the original value.,A,A,1,A,1,A,1,A,1
+Make a String Covered Jar,Follow the first two steps of the previous method.,Finish off by cutting the last section's string off when it can't be wound into place on the side of the jar any further.,A,B,1,A,1,B,1,A,1
+Produce Those Tricky Lead Synth Patterns Heard in Trance Music,"Get a sound generator, basically any software or hardware synthesis that includes a sequencer will do (to generate a synthesis pattern).",Realize that lead synthesis patterns in trance music can be just as important as lead guitar riffs in rock music.,B,A,1,A,1,A,1,A,1
+Carve Faces in Wood,Clamp the wood in place or hold it in place.,Strip the wood with a drawknife if your wood has outer bark.,A,A,1,A,1,A,1,A,1
+Make a Book Safe,Remove loose pages and continue cutting.,Clean up the edges.,A,B,1,A,1,A,1,A,1
+Make a Felt Rosebud Pincushion,Gather the edge of the large felt circle using 8 to 4 inch (0.3 to 0.6 c,"Coil the petal strip, fastening it along the bottom edge with stitches in matching thread color.",A,A,1,B,1,A,1,A,1
+Rationalize the Denominator,Examine the fraction.,Rewrite the denominator in terms of exponents.,A,A,1,A,1,A,1,A,1
+Block a Number from Texting You,Tap on the Plus sign.,Tap on Settings.,B,A,1,T,3,A,1,B,1
+Clean a Cartridge Type Swimming Pool Filter,Seal the acid container when you are finished with it.,Spray the acid-cleaned filters with a hose.,B,B,1,B,1,A,1,A,1
+Unicycle,Transfer your weight to the foot on the lower pedal.,Position the pedals in the same vertical position you used to mount the unicycle.,B,B,1,A,1,A,1,A,1
+Level Basement Floor,Use a squeegee or trowel to spread around the self-leveling agent.,Pour the self-leveling agent over the floor.,B,B,1,A,1,A,1,A,1
+Get a Valet Parking Job,Follow up.,Show enthusiasm.,B,A,1,A,1,A,1,B,1
+Clean a Carboy,Combine bleach and water.,Let soak overnight.,A,B,1,A,1,A,1,A,1
+Silently Call Emergency Services on iPhone or Apple Watch,Make sure the siren is turned off.,Hold the power button and one of the volume buttons at the same time.,A,A,1,A,1,A,1,B,1
+Play Shuffleboard,Keep playing.,Score the disks.,B,B,1,B,1,A,1,A,1
+Water Color with Distress Markers,Secure your paper.,Color on a nonstick sheet or acrylic plate.,A,A,1,A,1,A,1,A,1
+Cut an OfftheShoulder A,Choose a basic tank top that fits you well to use as a template.,Lay the tank top flat and fold the top 3 to 6 inches (7.6 to 15.2 cm) over.,A,B,1,A,1,B,1,A,1
+Use Spotify,Find music for your playlist.,Add the music to your playlist.,A,A,1,A,1,A,1,A,1
+Make a Chiptune,Come up with a melody for your chiptune.,Listen to other chiptunes to get an idea of what they're like.,B,A,1,B,1,A,1,B,1
+Dry Glitter Glue Fast,Plug in a hairdryer and set it to low or medium heat.,Hold your hairdryer about ten inches from the surface of your glitter glue.,A,B,1,A,1,A,1,A,1
+Automatically Fill Your Decorative Garden Fountain,Fill and re-energize the fountain.,Run the tube from the bottom of the fountain to the bottom of the bucket (fitting obtained from hardware store).,B,B,1,B,1,B,3,B,1
+Play Quarters,Drink the bug chug.,Begin the game.,B,B,1,B,1,A,1,A,1
+Make an Origami Soccer Ball,Finished!,Surround each black pentagon with white pieces to create the ball.,B,B,1,A,1,A,3,B,1
+Change the Name on a Driver's License Due to Marriage,Submit the completed application.,Complete the application.,B,I,3,B,1,A,2,A,1
+Use Vanish,Rinse off the fabric in a sink.,Let the Vanish soak in for 5 minutes.,B,B,1,B,1,A,1,A,1
+Measure the pH of Water,Collect a sample of the water in a clean container.,Dip a test strip into your sample.,A,A,1,A,1,A,1,A,1
+Make a Papier Mch,Make a base layer of paper over your base.,Allow the volcano to dry between each step.,A,A,1,A,1,A,1,B,1
+Make Sand Candles,Gently brush the excess sand off using a soft-bristled brush.,Remove the candle from the sand carefully the next day.,B,A,1,A,1,A,1,A,1
+Become an Au Pair in the US,Create a profile with your agency representative.,Interview with potential families to get to know them.,A,A,1,A,1,A,1,A,1
+Create an Amazon Storefront,Set the permissions for provided files/directories.,Open your FTP client software (or use the control panel provided by your web host) and upload the Associate-O-Matic files to your server (web host).,B,A,1,A,1,B,1,B,1
+Play Sparkle (Spelling Game),Continue in the same way until only 1 player is left.,Prompt the next person in the circle to give the first letter.,B,B,1,B,1,A,1,A,1
+Cover Wires,"Mount the filled track from the source of the wire to the wall, continuing either to the floor or to the ceiling.",Thread the wire into the open track in the wire conduit.,B,B,1,B,1,A,1,B,1
+Clean Grout with Baking Soda,Wipe up the mess.,Mop up the floor.,A,A,1,A,1,A,1,A,1
+Iron a Dress Shirt,Iron the collar.,Iron the rest of the shirt.,A,A,1,A,1,A,1,B,1
+Cook Turtle,Fill a large pot with about 5 inches (13 cm) of oil and heat it to 350 F (177 ,Dip the meat in the egg wash and then the coating mix until it is covered.,A,B,1,B,1,A,1,A,1
+Make Soap Last Longer,Let the soap cure.,Cut the bar of soap into smaller pieces.,A,B,1,A,1,A,1,B,1
+Make a Mimosa Cocktail,"Add a splash of Triple Sec liqueur, if desired.",Pour equal parts of sparkling wine and orange juice into a champagne flute.,B,B,1,A,1,A,1,A,1
+Change Your Name in Rhode Island,Complete the correct form.,Have the petition notarized.,A,B,1,A,1,A,1,A,1
+Hang a Kayak in Your Garage,Mark the position of the hangers on the wall in pencil.,Measure the length of the kayak before installing the hangers.,B,B,1,A,1,A,1,A,1
+Buy a Taco Bell Franchise,Wait for approval and for the restaurant to be built.,Apply for the franchise.,B,A,1,A,1,A,1,A,1
+"Find Mode, Median, Mean and Range",Add the numbers together.,Divide the total by the amount of numbers in the set.,A,B,1,A,1,B,1,A,1
+Pack Glass Bottles for Shipping,Seal each bottle in a plastic bag if they contain liquid.,Pack the smaller box inside the larger one.,A,A,1,A,1,A,1,A,1
+Clean a Dryer Drum,Harden the gum with ice.,Unplug the dryer.,B,A,1,B,1,A,1,B,1
+Take Care of Baby Water Turtles,Place a water heater in the tank.,Get a large aquarium.,B,B,1,B,1,A,1,B,1
+Jailbreak iOS Untethered,Close Evasi0n on your computer.,Tap on the Evasi0n icon when prompted to do so by the jailbreaki,B,A,1,A,1,A,1,A,1
+Use the wikiHow Editor's Toolbar,Find wikiHow Toolbar in the list.,Select it.,A,B,1,A,1,A,1,A,1
+Style Waist Length Hair,Gather your hair into a ponytail at the nape of your neck.,Pull your ponytail through the center of your hair between your scalp and the rubber band.,A,A,1,A,1,B,1,A,1
+Make an Invisible Mask for Video Cameras,Mark and cut the hat.,Attach the LEDs.,A,A,1,B,1,A,1,A,1
+Vote Online,Confirm whether you are eligible to return an absentee ballot by email or fax.,Request the ballot.,A,A,2,A,1,A,1,A,1
+Make a Cup of Tea Using the Microwave,"Now remove the napkin, book, or bowl.","Cover the mug with a napkin, book, or bowl so the tea can steep.",B,A,1,B,1,N,3,B,1
+Make a Simple Paper Airplane,Unfold the paper and bend the top corners toward the crease.,Fold a letter size sheet of paper in half.,B,A,1,A,1,A,1,B,1
+Write a Payment Reminder,Conclude your letter.,Mail the letter.,A,B,1,A,1,A,1,A,1
+Shotgun a Beer,Drink the beer as fast as you can.,Pop the tab open with your other hand.,B,B,1,A,1,A,1,B,1
+Tune a Dulcimer,"Tune the bass string to the D below Middle C. Pluck the bass string without pressing it and listen to the sound it makes, then play the correct D note on a piano, guitar, or pitch pipe.",Adjust the middle string based on the bass string.,A,A,1,A,1,A,1,A,1
+Calculate Kinetic Energy,Plug in the known variables.,Write the equation.,B,B,1,B,1,A,1,A,1
+Set up a Rent to Own Contract,Sign the document.,Negotiate necessary changes.,B,B,1,B,1,B,1,B,1
+Read Binary,Find a binary number you want to convert.,Multiply each binary digit by two to the power of its place number.,A,A,1,A,1,A,1,B,1
+Wrap Windows with Aluminum,Add at least 3 inches (7.6 cm) to your measurements.,Measure each window.,B,B,1,A,1,A,1,B,1
+Tell Time Without a Clock,Line up your hand with the horizon.,Stack one hand below the other towards the horizon.,A,B,1,A,1,T,3,B,1
+Become an OSHA Inspector,Apply for open OSHA inspector vacancies with your cover letter and resume.,Pick 3-4 work experiences to talk about during your job interview.,A,B,1,A,1,A,1,A,1
+Count Money,Organize by size and value.,Calculate the value of each stack.,A,A,1,A,1,A,1,A,1
+Make Light Bend for Science Experiments,Cover the bottom of a rectangular fish tank with 2 lb (0.91 kg) of sugar.,Pour 1 2 US gal (5.7 L) of water into the,A,A,1,A,1,A,1,A,1
+Make a Walnut Mouse,Place the cardboard template on a scrap of fabric.,To attach the fabric to the base of the mouse:,A,B,1,A,1,A,1,A,1
+Make Rip Away Pants,"Find or buy a pair of pants that you don't mind cutting, or that you would like to be able to remove quickly.",Cut the threaded seam along the outside of each leg.,A,B,1,A,1,A,1,A,1
+Clean Pewter,Rinse.,Dry thoroughly.,A,B,1,A,1,A,1,A,1
+Locate a Leak in an Air Mattress,Apply pressure to the mattress with your hand and listen for leaks.,Mark the leak with a pen or piece of tape.,A,A,1,A,1,A,1,A,1
+Cross Hatch,Go over the drawing in ink.,Erase the pencil marks once the ink has dried.,A,B,1,A,1,A,1,A,1
+Make Creamy Chai Tea,Boil water.,Add the tea powder/ bag.,A,A,1,A,1,A,1,A,1
+Drink Bacardi,"Choose one of Bacardi's full-bodied rums, such as the Reserva Limitada.",Pour about 1 ounce of Bacardi rum into an old-fashioned or rocks,A,A,1,A,1,B,1,A,1
+Clean Your Rabbit Without Bathing It,Wipe the bunny on the soiled area.,Put your rabbit in a comfortable position.,B,A,1,A,1,A,1,B,1
+Remove Grass Stains from Clothing,"Apply, massage and let sit.",Mix your DIY-remover.,B,A,1,B,1,A,1,A,1
+Score Badminton,Stop the game when 1 player reaches 30 points.,Defeat your opponent 2-3 times to win a badminton match.,A,A,1,A,1,B,1,A,1
+Buy a House at Auction,Register and get your bidding paddle.,Raise your paddle to bid on the property you want to purchase.,A,A,1,A,1,A,1,A,1
+Hem a Prom Dress,Attach a blind hem foot to your machine.,Fold the hem under as you place it on the machine.,A,B,1,A,1,A,1,B,1
+Pass the California State Bar Exam Without Law School,Take the FYLSX.,Apply to take the FYLSX.,B,A,1,A,1,I,3,B,1
+Start a Lanyard,Drape one end over the other and loop it underneath through the center of the bight.,Make a bight with two free ends.,B,A,1,A,1,A,1,A,1
+Convert Grams to Moles,Set up the conversion formula.,Plug your numbers into the formula.,A,B,1,A,1,A,1,A,1
+Write an Email of Interest for a Job,Close with your contact information and a 'thank you.',Explain your qualifications and experience in the body of the letter.,B,B,1,A,1,A,1,B,1
+Get an Egg Into a Bottle,Watch the egg go into the bottle.,Put the candles in an upside-down bottle.,B,A,1,B,1,A,1,A,1
+Watch Movies Online With Netflix,Sign into the activation site with your Netflix account.,Type in the code displayed on your TV.,A,I,3,A,1,A,1,A,1
+Sharpen Crayon Points,Purchase a manual crayon sharpener.,Sharpen the crayon the same way you would sharpen a pencil in a manual sharpener.,A,I,3,A,1,I,3,A,1
+Make an Ancient Letter,Use a pan that you would make brownies in.,Take strong black tea.,A,A,1,B,2,A,1,A,1
+Make Rhubarb Cordial,Add the mint leaves for decoration.,Remove from the heat.,B,B,1,B,1,B,1,B,1
+Make a Paper Tank,Secure the gun.,Add the gun.,B,B,1,B,1,A,1,A,1
+Make a Toilet Paper Roll Caterpillar,Fold and glue the antennae onto the top of the caterpillar's head.,Pick out some construction paper and cut out two strips to use as antennae.,B,B,1,A,1,A,1,A,1
+Eat Edamame,Add 3 cups of thawed frozen edamame to the mixture and cook for 5 minutes.,Stir in the rice and 3 diced scallions and cook for 1 more minute.,A,A,1,A,1,B,1,A,1
+Recycle Coffee Grounds From Your Coffee Maker,Collect coffee grounds for distributing onto the ground outdoors.,Pour the coffee grounds over your outdoor soil.,A,B,1,A,1,A,3,A,1
+Measure Length,"Line up the ""0"" mark with one end.",Extend the measuring tool over the length.,A,A,1,A,1,B,1,A,1
+Use a Boresnake,Pull the bore snake all the way through the barrel.,Repeat the process if necessary.,A,A,1,A,1,A,1,A,1
+Heat Water Using Solar Energy,Run the water through the hose slowly and it will come out warm.,Finished.,A,A,1,A,1,A,1,A,1
+Distinguish Between Acids and Bases,"Dip one end of the blue litmus paper into the solution, then quickly remove it.",Buy red and blue litmus paper.,B,A,1,A,1,A,1,B,1
+Make Drums for Kids,Attach fabric to the top of the coffee tin.,Replace the lid.,A,B,1,I,3,A,1,A,1
+Wash a Pillow Pet,Hang your Pillow Pet up to dry.,Let your Pillow Pet air dry for several hours.,A,B,1,A,1,A,2,B,1
+Buy Books for Your Kindle,"When prompted, confirm your purchase.",Tap Buy.,B,I,3,A,1,A,2,B,1
+Wire an Electric Cooker,Have a certified electrician check your work for mistakes.,Replace the terminal screws to secure the power wires.,B,A,1,A,1,A,1,A,1
+Share Your Pictures on SmugMug,Click Try Us O,"Enter your Email, Password, and desired Site Name.",A,B,1,A,1,A,1,A,1
+Split Hardwood Firewood,Tap the wedge into the grain with a sledge.,Have several wedges on hand.,B,A,1,A,1,A,1,B,1
+Make Your Sessions Private on Spotify,Launch Spotify.,Sign in.,A,B,1,B,1,A,1,A,1
+Make a Bow Ring Out of Clay,Add the varnish using clear nail polish You might want to put something beneath it to avoid mess.,Add some designs.,B,A,1,A,1,A,1,B,1
+Talk to an Old Friend over Instant Messaging,Have a look at the persons pr,Wait patiently for an add.,A,A,1,A,1,A,1,A,1
+Build a Model Ship,Buy the necessary tools.,Look for a model to purchase.,B,B,1,B,1,A,1,B,1
+Make a Rope Harness,Tie another bowline around your other leg.,Tie a bowline knot to secure the first leg.,B,A,1,B,1,B,1,B,1
+Make Money with 500px,Click My Settings.,Click the LICENSING tab.,A,A,1,A,1,A,1,A,1
+Paint Louvered Shutters,Put the shutters on a drop cloth on a flat surface.,Take down the shutters from your home.,B,A,1,A,1,A,1,A,1
+Buy Bird Baths,Rent a truck and move the bird bath into it.,Look at the bird baths available at a garden center.,B,A,1,A,1,A,1,A,1
+Level the Ground for Pavers,Slope your strings by .25 inches (0.64 cm) for every 1 foot (30 cm) of land.,Use string to mark the finished level for your pavers.,B,A,1,A,1,A,1,A,1
+Make Snowball Punch,Scoop and add the ice cream snowballs.,Garnish and serve the blue snowball punch.,A,A,1,A,1,A,1,A,1
+Bottle Feed a Newborn,Firmly pat or rub their back.,Resume feeding after a couple minutes even if your baby doesnt,A,A,1,A,1,A,1,A,1
+Create an Origami Puppy Finger Puppet,Fold the top layer up (forms the ears).,Fold the next top layer up (looks like a mouth).,A,A,1,I,3,A,1,A,1
+Check Your Bank Balance,Create an account using your account information if you don't have one.,Go to your banks website on your computer or ,B,B,1,A,1,A,1,B,1
+Square Your Duct Tape Sheet,Place your duct tape sheet on a flat surface.,Attach the paper firmly to the duct tape sheet.,A,B,1,A,1,A,1,A,1
+Remove Ads from Kindle Fire HD,Click the Edit button next to ,Click Unsubscribe now with one cli,A,A,1,A,1,A,1,A,1
+Make Easter Bunny Chow Mix,Stir the chocolate.,Repeat this pattern until the chocolate is fully melted.,A,B,1,B,1,A,2,A,1
+Make Cinnamon Hot Chocolate,Place all of the ingredients into a large mixing bowl.,Whisk together to combine.,A,B,1,A,1,A,2,A,1
+Turn an Old Book Into a Clock,Place the book clock on display.,Snap the clock hands onto the clock motor rod on the front cover.,B,B,1,A,1,A,1,B,1
+Pack Your Fragile Items,"Pack some items, like cups or mugs, in a cell pack.","After filling a box, gently pack tissue or bubble wrap into any open spaces.",A,B,1,A,1,B,1,B,1
+Obtain a Copy of Your Birth Certificate in Illinois,Fill out the required forms.,Gather the required information.,B,B,1,B,1,B,1,B,1
+Clean Baby Bottles That Have a Milk Odor,"If the odor remains, soak the bottle in the water with baking soda.",Rinse the bottle and smell it.,B,A,2,A,1,A,1,B,1
+Identify Estate Assets That Generate Income,Gather the required documents.,Fill out the required documents.,A,A,1,A,1,A,1,A,1
+"Go ""Beer Fishing""","Before he grasps it, tug on the line.","Meanwhile, your guests are enjoying this from the balcony and going nuts with laughter.",A,A,1,A,1,A,1,A,1
+Remove a Vertical Sliding Window,Pry the removal clips up with a flathead screwdriver.,Lift up the vertical sash until it disengages from its tracks.,A,A,1,B,1,A,1,B,1
+Make Easy Pants,Measure the waistline for your drawstring/waistband.,Use a buttonhole stitch.,A,A,1,A,1,A,1,A,1
+Make Homemade Aloe Vera Facials,Prepare a simple scrub.,Massage the scrub onto your face for 1 to 2 minutes.,A,B,1,A,1,B,1,A,1
+Paint a Fireplace,Use flat brushes to paint your tile fireplace with enamel paint.,Paint the tile with a coat of oil-based primer.,B,B,1,A,1,B,1,B,1
+Test Blood to Make Sure It's Real,Drip hydrogen peroxide on the liquid.,Prepare your blood sample.,B,B,1,A,1,A,1,B,1
+Make Glow in the Dark Slime,Add the craft paint.,Finished!,A,A,3,A,1,A,1,A,1
+Keep a Wild Caught Toad As a Pet,Feed your toad 1 or 2 insects each day.,Purchase live insects to feed your toad.,B,B,1,A,1,A,1,B,1
+Report Fraud on PayPal,Provide a description of your problem.,Escalate your dispute to a claim.,A,B,1,A,1,A,1,A,1
+Measure Heel Height,Measure from the top of the heel cap.,Get a tape measure or ruler.,B,B,1,A,1,A,1,A,1
+Make a Shower Pan,Apply an 8 in (0.32 cm) layer of thinset on the showe,Wipe the mortar with a wet cloth to clean up any dust.,B,B,1,A,1,B,1,A,1
+Make Unicorn Ice Cream,Divide the whipping cream mixture into 4-5 bowls.,Add the sweetened condensed milk and vanilla.,B,A,1,A,1,I,3,A,1
+Use a Transistor,Connect 1 resistor to the LED.,Insert the LED bulb and connect it to the transistor.,B,B,1,A,1,A,1,A,1
+Play Front Foot Straight Drive in Cricket,Lift the bat up.,Hold the bat.,B,A,1,B,1,A,1,A,1
+Make Felt Coasters,Pin your modular pieces onto your 4x4 inch (101.6x101.6 mm) squares.,Sew along the inner edges of your modular pieces.,A,A,1,A,1,A,1,A,1
+Make a Rice Sock,Fill the sock three-quarters full with uncooked rice.,Add aromatics if you like.,A,A,1,A,1,A,1,A,1
+Recycle an Old Hot Water Bottle,Attach the hot water bottle to the wall where youd like to place floral arrange,Place flowers into the bottle vase.,A,A,1,A,1,A,1,A,1
+Play Minecraft,Select a difficulty.,Enter a name for your world.,B,B,1,B,1,A,1,A,1
+Wash a Chest Binder,Hang your binder up to dry.,Rinse your binder thoroughly.,B,B,1,B,1,B,1,B,1
+Make Heart Macarons,Transfer the macaron batter to a piping bag.,Line a cookie sheet with parchment paper.,B,A,1,A,1,A,1,B,1
+Compare Credit Card Offers for People With Bad Credit,Check the annual fee.,Search online for offers.,B,B,1,A,1,A,1,B,1
+Clean Cat Urine,Stand on the wet spot if it is on a carpet.,Avoid rubbing in the stain.,B,B,1,B,1,A,1,B,1
+Become a Curves Franchisee,Wait for the contract.,Submit your Confidential User Profile.,B,A,1,B,1,A,1,A,1
+Give a Cat Medicine,Prepare the medicine.,Wrap your cat in a towel with only his head exposed.,A,B,1,A,1,A,2,A,1
+Play Kings Corners,Decide who will go first.,Tell player one to pick up a card.,A,A,1,A,1,A,1,A,1
+Clean Nickel Plating,Soak the object in the solution.,Rinse the plating.,A,A,1,A,1,A,1,A,1
+Hang Patterned Wallpaper,Unroll a roll of wallpaper facedown on a pasting table.,Measure the height of the wall using a measuring tape and add 4 in (10 cm).,B,A,1,A,1,A,1,A,1
+Install Vinyl Gutters,Measure out the gutter run.,Choose between a vinyl gutter kit or separate parts.,A,A,1,A,1,A,1,B,1
+Fix a Mailbox,Purchase a new mailbox post at a home improvement store.,Dig a hole for the new post that complies with USPS guidelines.,A,A,1,A,1,A,1,B,1
+Create a Hunger Games Game in Vanilla Minecraft,"When the game is near the end (3-4 tributes still alive), spawn killer bunnies and other non-flying monsters in from the edges (mutations), the tributes then would start running for survival up the cornucopia, and this is a wordless deathmatch.","When the victor is decided, kill the mutations with a command, and announce the victory.",A,A,1,A,1,A,1,A,1
+Make a Paper Football,Flatten the paper football with your fingers.,Tuck the right side of the new triangle into the pocket on the left.,B,A,1,A,1,A,1,B,1
+Fasten Lace Curtains,Stitch around the curtain rod to bring both sides of the looped lace fabric together.,Select a yarn that matches the color of the lace closely.,B,B,1,A,1,A,1,A,1
+Clean Greasy Kitchen Cabinets,Scrub the paste to remove grease.,Remove the paste and wipe the cabinets dry.,A,A,1,A,1,A,1,A,1
+Use Tuning Forks,Get a tuning fork that produces an A note.,Find the A note on each string of your instrument.,A,A,1,A,1,A,1,A,1
+Create a School Project on the Layers of the Earth,Make the homemade dough.,Separate the dough into 7 balls of varying sizes and dye them.,A,B,1,B,1,A,1,A,1
+Tell if Sunglasses Are Polarized,Tilt your head 60 degrees to the left or right.,Put on your sunglasses.,B,A,1,A,1,A,1,A,1
+Paint a Sunset,Pull yellow outwards from the edges of the sun toward the edge of the canvas.,Clean your brush in between the color changes in the water cup and dab it dry on the paper towel.,A,B,1,A,1,B,1,B,1
+Adopt a Stepchild in California,Complete the appropriate court forms.,Have a professional review your forms.,A,A,1,A,1,A,1,A,1
+Fish Without Fishing Gear,Bail out the water from the pool using a container.,Find a small pond or small water area.,B,B,1,B,1,B,1,B,1
+Write an Acceptance Letter,Specify your start date and supervisor.,Confirm your salary and benefits.,A,A,1,A,1,A,1,A,1
+Fly to Curacao,Gather all of the necessary documents.,Fill out the Embarkation Disembarkation card.,A,A,1,A,1,A,1,B,1
+Test a Transistor,Clamp the black probe to the base of the transistor.,"Determine which leads are the base, emitter and collector.",B,B,1,A,1,B,1,B,1
+Smoke a Pork Butt,Combine the marinade ingredients.,Distribute the marinade throughout the pork.,A,B,1,A,1,B,1,A,1
+Do a Throwie,Lay your cardboard sheet over your chosen medium and color in the cutout.,"Add outlines, shading, and other details to your reproduction.",A,A,1,A,1,A,1,A,1
+Clean Makeup Brushes with Alcohol,Pour alcohol into a shallow bowl.,Swish the brush around.,A,A,1,A,1,A,1,A,1
+Make a Pillow Bed,Turn the sheet right side out.,Make seams 17 in (43 cm) apart along the length of the sheet.,A,A,1,A,1,A,1,A,1
+Build a Figure Four Mangle Snare,Place plant material around the trap so that a funnel is created on both sides to guide the animal towards the trap.,"Remove yourself from the surrounding area, and check on the trap next day.",A,A,1,A,1,A,1,B,1
+Get Rid of a Pollen Stain,Wash the garment in your washing machine.,Apply a pretreatment solution and let it soak for 20 minutes.,B,B,1,B,1,A,1,B,1
+Make a Three Way Phone Call,Call the first person.,Press SEND.,A,A,1,A,1,A,1,A,1
